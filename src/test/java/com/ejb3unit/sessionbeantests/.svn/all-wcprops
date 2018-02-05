@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/ejb3unit/!svn/ver/158/trunk/Ejb3UnitSampleProject/src/test/java/com/ejb3unit/sessionbeantests
+END
+DIMethodSessionBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/ejb3unit/!svn/ver/158/trunk/Ejb3UnitSampleProject/src/test/java/com/ejb3unit/sessionbeantests/DIMethodSessionBeanTest.java
+END
+DIFieldSessionBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/ejb3unit/!svn/ver/158/trunk/Ejb3UnitSampleProject/src/test/java/com/ejb3unit/sessionbeantests/DIFieldSessionBeanTest.java
+END
+MockedSessionBeanUnitTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/ejb3unit/!svn/ver/158/trunk/Ejb3UnitSampleProject/src/test/java/com/ejb3unit/sessionbeantests/MockedSessionBeanUnitTest.java
+END

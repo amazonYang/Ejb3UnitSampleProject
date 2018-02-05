@@ -1,0 +1,94 @@
+8
+
+dir
+163
+https://ejb3unit.svn.sourceforge.net/svnroot/ejb3unit/trunk/Ejb3UnitSampleProject
+https://ejb3unit.svn.sourceforge.net/svnroot/ejb3unit
+
+
+
+2007-07-26T23:54:33.109155Z
+158
+daniel_wiese
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+240b23ad-3c12-0410-ab44-d75537e93366
+
+.classpath
+file
+
+
+
+
+2007-07-15T15:30:40.338158Z
+9521344d44b2fe2356aeb667439ea232
+2007-02-25T02:14:29.190148Z
+61
+daniel_wiese
+
+.project
+file
+
+
+
+
+2007-07-15T15:30:40.338158Z
+0b3639413ddfe82fbce46679c549f7cf
+2007-02-25T02:14:29.190148Z
+61
+daniel_wiese
+
+HowToSetupEclipse.txt
+file
+
+
+
+
+2007-07-15T15:30:40.338158Z
+c5640402c0c2d588068bdee4926f6e63
+2007-02-28T02:55:16.675366Z
+89
+daniel_wiese
+
+lib
+dir
+
+src
+dir
+
+pom.xml
+file
+174
+
+
+
+2007-07-28T21:38:36.830329Z
+78d0789c27a3089328092eebb4927306
+2007-07-28T21:13:00.469064Z
+174
+daniel_wiese
+
+Execute all ejb3 unit tests.launch
+file
+
+
+
+
+2007-07-15T15:30:40.353758Z
+37694229345fd3e1f8ee045fb2cfe405
+2007-02-25T02:14:29.190148Z
+61
+daniel_wiese
+

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ejb3unit/!svn/ver/158/trunk/Ejb3UnitSampleProject/src/main/java/com/ejb3unit
+END
+MySessionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/ejb3unit/!svn/ver/61/trunk/Ejb3UnitSampleProject/src/main/java/com/ejb3unit/MySessionBean.java
+END
+IMyMethodAnnotaedSessionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/ejb3unit/!svn/ver/158/trunk/Ejb3UnitSampleProject/src/main/java/com/ejb3unit/IMyMethodAnnotaedSessionBean.java
+END
+StockWKNBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/ejb3unit/!svn/ver/89/trunk/Ejb3UnitSampleProject/src/main/java/com/ejb3unit/StockWKNBo.java
+END
+IAnnotatedFieldSessionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/ejb3unit/!svn/ver/158/trunk/Ejb3UnitSampleProject/src/main/java/com/ejb3unit/IAnnotatedFieldSessionBean.java
+END
+LineItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/ejb3unit/!svn/ver/89/trunk/Ejb3UnitSampleProject/src/main/java/com/ejb3unit/LineItem.java
+END
+IMySessionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/ejb3unit/!svn/ver/61/trunk/Ejb3UnitSampleProject/src/main/java/com/ejb3unit/IMySessionBean.java
+END
+Order.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/ejb3unit/!svn/ver/89/trunk/Ejb3UnitSampleProject/src/main/java/com/ejb3unit/Order.java
+END
+AnnotatedFieldSessionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/ejb3unit/!svn/ver/158/trunk/Ejb3UnitSampleProject/src/main/java/com/ejb3unit/AnnotatedFieldSessionBean.java
+END
+AnnotatedMethodsSessionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/ejb3unit/!svn/ver/158/trunk/Ejb3UnitSampleProject/src/main/java/com/ejb3unit/AnnotatedMethodsSessionBean.java
+END
+NewsBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ejb3unit/!svn/ver/89/trunk/Ejb3UnitSampleProject/src/main/java/com/ejb3unit/NewsBo.java
+END

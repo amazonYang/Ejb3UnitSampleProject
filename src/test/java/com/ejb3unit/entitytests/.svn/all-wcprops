@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ejb3unit/!svn/ver/158/trunk/Ejb3UnitSampleProject/src/test/java/com/ejb3unit/entitytests
+END
+PojoFixtureUsageExampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/ejb3unit/!svn/ver/158/trunk/Ejb3UnitSampleProject/src/test/java/com/ejb3unit/entitytests/PojoFixtureUsageExampleTest.java
+END
+StockWKNBoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/ejb3unit/!svn/ver/61/trunk/Ejb3UnitSampleProject/src/test/java/com/ejb3unit/entitytests/StockWKNBoTest.java
+END
+LineItemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/ejb3unit/!svn/ver/61/trunk/Ejb3UnitSampleProject/src/test/java/com/ejb3unit/entitytests/LineItemTest.java
+END
+OrderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/ejb3unit/!svn/ver/61/trunk/Ejb3UnitSampleProject/src/test/java/com/ejb3unit/entitytests/OrderTest.java
+END
+NewsBoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/ejb3unit/!svn/ver/61/trunk/Ejb3UnitSampleProject/src/test/java/com/ejb3unit/entitytests/NewsBoTest.java
+END
